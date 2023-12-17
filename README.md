@@ -65,6 +65,10 @@ Here are some ideas to get you started:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/faiyaz_shaikh?ext=heatmap)
 
+### &#x1f4c8; LeetCode Badges
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=faiyaz_shaikh&theme=tokyonight" alt="LeetCode Badges"  />
+
 
 #### 📫 How to reach me:
   
